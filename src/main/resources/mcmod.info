@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ihateprojectiles",
+  "name": "I Hate Projectiles",
+  "description": "I really hate projectiles",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FreeDownloadHere"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
